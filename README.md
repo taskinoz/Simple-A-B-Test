@@ -10,8 +10,8 @@ e.g `home.html` and `home2.html`
 
 ```
 $testingPages = array(
-	"a" => file\_get\_contents('a.html'),
-	"b" => file\_get\_contents('b.html')
+	"a" => file_get_contents('a.html'),
+	"b" => file_get_contents('b.html')
 );
 ```
 
